@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "696263595235",
+    "project_id": "sms-sherlar",
+    "storage_bucket": "sms-sherlar.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:696263595235:android:ab321dcee116e2f5c961d6",
+        "android_client_info": {
+          "package_name": "com.example.smssherlar"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "696263595235-el84l6o5epniclgo5ti6ag3nluh1mkla.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtpO-PO0E7M8Ioklya1GwQrT2QRTBlb5s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "696263595235-el84l6o5epniclgo5ti6ag3nluh1mkla.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
